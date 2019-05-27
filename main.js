@@ -18,7 +18,7 @@ const arr =[a,b,c,d,e,f]
   randomMessage=()=>{
     let message="";
     for(let i=0;i<arr.length;i++){
-      let rand=Math.floor(Math.random()*(arr.length+1));
+      let rand=Math.floor(Math.random()*(arr[i].length));
       message+=arr[i][rand]
     }
     
