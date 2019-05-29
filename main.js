@@ -8,7 +8,7 @@ const c=["zupełnie bezkarnie ", "całkowicie bezczelnie ", "o poglądach na lew
 
 const d=["nawołują do podniesienia podatków ", "próbują wyrzucić kierowców z miast ", "próbują skłócić Polskę z Rosją ", "głoszą brednie o globalnym ociepleniu ", "zakazują posiadania broni ", "nie dopuszczają prawicy do władzy ", "uczą dzieci homoseksualizmu "]
 
-const e=["bo dzięki temu mogą kraść ", "bo dostają za to pieniądze ", "bo tak się uczy w państwowej szkole ", "bo bez tego (tfu!) demokracja nie może istnieć ", "bo głupich jest więcej niż mądrych ", "bo chcą tworzyć raj na ziemi ", "bo chcą niszczyć cywilizacją białego człowieka "]
+const e=["bo dzięki temu mogą kraść ", "bo dostają za to pieniądze ", "bo tak się uczy w państwowej szkole ", "bo bez tego (tfu!) demokracja nie może istnieć ", "bo głupich jest więcej niż mądrych ", "bo chcą tworzyć raj na ziemi ", "bo chcą niszczyć cywilizację białego człowieka "]
 
 const f=["przez kolejne kadencje ", "o czym się nie mówi ", "i właśnie dlatego Europa umiera ", "ale przyjdą Muzułmanie i zrobią porządek ", "- tak samo jak za Hitlera ", "- proszę zobaczyć co się dzieje na Zachodzie jeśli mi państwo nie wierzą ", "co lat temu sto nikomu nie przyszłoby do glowy "]
 
